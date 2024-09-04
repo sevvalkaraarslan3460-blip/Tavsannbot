@@ -29,7 +29,7 @@ class Bot(BaseBot):
 
         await self.highrise.send_whisper(user.id,f"❤️Use: [/help] For More Informations.")
 
-        await self.highrise.send_whisper(user.id,f"❤️[Rent Bot] or [Buy Bot File] Call [@ShoKytoo] in private.")
+        await self.highrise.send_whisper(user.id,f"❤️[🤍] . [🤍].")
            
         await self.highrise.send_emote("dance-hipshake")
       
